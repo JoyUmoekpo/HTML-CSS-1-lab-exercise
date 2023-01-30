@@ -3,3 +3,34 @@
   color: white;
   text-align: center;
 }
+
+.gif {
+  border: solid;
+  box-shadow: 5px 5px lightyellow;
+  height: 350px;
+  width: 350px;
+  padding: 5px;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+  font-size: x-large;
+  width: 300px;
+  height: 100px;  
+  padding: 50px;
+  border: 1px solid;
+  box-sizing: border-box;
+}
+
+.container {
+  padding: 50px;
+}
+
+.right:hover {
+  background-color: white;
+  color: purple;
+}
